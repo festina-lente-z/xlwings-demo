@@ -28,10 +28,12 @@ Return type:	Range
 ## [demo04](https://github.com/BellaZZZZZ/xlwings-demo/blob/master/demo/demo04.py)
 `xlwings`设置字体加粗、倾斜、居中、下划线以及颜色等
 参考：[【python】xlwings如何设置字体、颜色等属性](https://blog.csdn.net/weixin_37577134/article/details/89048798)
+
 demo04效果(before)：
 <div align=center>
   <img src="/before.png" alt="before"/>
 </div>
+
 运用该博主的方法，我们先在excel把自己想要的格式设置出来：
 - ‘One’：加粗，左对齐靠下
 - ‘Two’：倾斜，居中靠下
@@ -39,6 +41,7 @@ demo04效果(before)：
 - ‘Four’：左对齐居中
 - ‘Five’：右对齐靠下
 - 全框线，粉色
+
 demo04效果(after)：
 <div align=center>
   <img src="/after.png" alt="after"/>
