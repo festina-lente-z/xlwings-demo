@@ -1,3 +1,4 @@
+# 读取整个sheet到pandas.DataFrame
 import xlwings as xw
 import pandas as pd
 from pandas import Series,DataFrame
