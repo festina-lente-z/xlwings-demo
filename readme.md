@@ -40,6 +40,8 @@ demo04效果(before)：
 - ‘Five’：右对齐靠下
 - 全框线，粉色
 demo04效果(after)：
-<div align=center>![after](after.png)</div>
+<div align=center>
+  <img src="after.png"/>
+</div>
 
 
