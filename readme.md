@@ -30,7 +30,7 @@ Return type:	Range
 参考：[【python】xlwings如何设置字体、颜色等属性](https://blog.csdn.net/weixin_37577134/article/details/89048798)
 demo04效果(before)：
 <div align=center>
-  <img src="before.png"/>
+  <img src="/before.png"/>
 </div>
 运用该博主的方法，我们先在excel把自己想要的格式设置出来：
 - ‘One’：加粗，左对齐靠下
@@ -41,7 +41,7 @@ demo04效果(before)：
 - 全框线，粉色
 demo04效果(after)：
 <div align=center>
-  <img src="after.png"/>
+  <img src="/after.png"/>
 </div>
 
 
